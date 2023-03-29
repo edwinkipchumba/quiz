@@ -1,0 +1,29 @@
+.card-body3{
+    text-decoration: underline;
+}
+.card-body4{
+    text-decoration: line-through;
+    font-style: italic;
+}
+.copy-right{
+    text-align: center;
+}
+.footer-header{
+    background-color: black;
+    color:wheat;
+}
+.foot-cont{
+    display: flex; 
+    margin: 0% 15% 0% 15%; 
+}
+
+input[type=text],input[type=email]{
+    width: 40%;
+    border-radius: 10%;
+   
+  }
+  .error{
+    display: none;
+    color: red;
+  }
+ 
